@@ -20,7 +20,7 @@ If you uncheck Click-Through, You can drag your clock to any where!
 
 You can type any text in Date / Time Formate's dropdown list and then It become overlay! 
 
-# Donation:
+# Donation
 
 **BTC Wallet Address (BTC):**`1AhkMSURwyFbJr68RrTMoyE6cTDFWcncVL`
 
