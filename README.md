@@ -1,7 +1,5 @@
 # Date-Time-Overlay
 
-[![Download for Windows](https://github.com/user-attachments/assets/046df050-14d3-4296-a27b-0d522c889944)](https://github.com/shanmattari-dev/Date-Time-Overlay/releases/download/Release/DateTime_Overlay_V_30.exe)
-
 I often get so immersed in games that I lose track of time.
 
 Sometimes I wonder what time it is, but I can't see a clock anywhere on the screen.
@@ -41,3 +39,6 @@ I type "วันที่ %d เดือน %m ปีค.ศ. %Y ★ เวล
 
 <img width="585" height="967" alt="THAI QR PAYMENT 50 Percent" src="https://github.com/user-attachments/assets/7137f0ea-4fde-4642-8d39-a91007df3f04" />
 
+# Download
+
+[![Download for Windows](https://github.com/user-attachments/assets/046df050-14d3-4296-a27b-0d522c889944)](https://github.com/shanmattari-dev/Date-Time-Overlay/releases/download/Release/DateTime_Overlay_V_30.exe)
