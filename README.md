@@ -16,9 +16,18 @@ So, I created a simple time overlay program that displays the current time direc
 
 # Hidden Ability
 
-If you uncheck Click-Through, You can drag your clock to any where!
+If you "uncheck" Click-Through, You can drag your clock to any where!
 
-You can type any text in Date / Time Formate's dropdown list and then It become overlay! 
+You can type any text at "Date / Time Formate" in "dropdown list" and then it become overlay! 
+
+# Example
+
+I type "วันที่ %d เดือน %m ปีค.ศ. %Y ★ เวลา %H:%M นาที"
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/71aa0c19-5882-47e5-8957-26f1749f3991" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/966b5a4d-6d68-464f-bc1e-556abfebb42a" />
+
 
 # Donation
 
