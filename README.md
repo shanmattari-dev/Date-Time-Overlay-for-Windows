@@ -28,6 +28,8 @@ I type "วันที่ %d เดือน %m ปีค.ศ. %Y ★ เวล
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/966b5a4d-6d68-464f-bc1e-556abfebb42a" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7dae616a-ed15-4315-a207-de7e96f2065c" />
+
 
 # Donation
 
