@@ -35,8 +35,6 @@ I type "วันที่ %d เดือน %m ปีค.ศ. %Y ★ เวล
 
 **USDT Wallet Address (ERC20):**`0xc3583840b4196e55251e801f2a9c91c00ba4913c`
 
-**ETH Wallet Address (ERC20):**`0xc3583840b4196e55251e801f2a9c91c00ba4913c`
-
 # Download
 
 [![Download for Windows](https://github.com/user-attachments/assets/046df050-14d3-4296-a27b-0d522c889944)](https://github.com/shanmattari-dev/Date-Time-Overlay/releases/download/Release/DateTime_Overlay_V_30.exe)
