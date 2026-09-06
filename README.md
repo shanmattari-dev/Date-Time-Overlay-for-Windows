@@ -1,3 +1,4 @@
+![Platform](https://img.shields.io/badge/Platform-Windows-1f4e79?style=flat-square)
 # Date-Time-Overlay
 
 I often get so immersed in games that I lose track of time.
